@@ -21,7 +21,12 @@ To understand how NLP model works and study or analyse the quality of a product 
 # Findings
 * Multinomial Naive Bayes gave highest accuracy.
 
+![UI](Image/WordCloud.png?raw=true "WordCloud.png")
+
 # Accuracy
+
+![UI](Image/AccauracyOfNBC.png?raw=true "AccauracyOfNBC.png")
+![UI](Image/AccuracyOfRandomForestClassifier.png?raw=true "AccuracyOfRandomForestClassifier.png")
   
 # Additional Info
 * Uploaded python ipynb file in the repository.
